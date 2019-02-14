@@ -5,14 +5,14 @@ hosted tier currently start at $26/mo.
 
 This repository lets you set up a self-hosted instance of Sentry
 on
-[Linode](https://www.linode.com/?r=03c98ce370ba6c626d40c900c8f6f316ccb808f2),
+[Linode](https://www.linode.com/,
 for only $5/mo. You need a (sub-)domain such as `sentry.example.com`.
 Installation is mostly automatic and takes a little over 30 minutes
 in total.
 
 ## 1. Create a Linode account
 If you don't already have one,
-[create a Linode account](https://www.linode.com/?r=03c98ce370ba6c626d40c900c8f6f316ccb808f2).
+[create a Linode account](https://www.linode.com.
 Use the promo code **DOCS10** for a $10 credit.
 
 ## 2. Add a Linode
